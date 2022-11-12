@@ -3,7 +3,7 @@ import os
 import datetime
 from discord.ext import commands
 
-TOKEN = 'OTc4OTEyMTYzNzQzODA5NTc2.GiYK7Z.M0uEOQEYE80HXAsHs09qwdkpsdsJG9g2WKOrAA'
+TOKEN = ''
 GUILD = ''
 
 bot = commands.Bot(command_prefix='/')
